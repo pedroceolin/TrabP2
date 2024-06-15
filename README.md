@@ -1,3 +1,3 @@
-https://trello.com/invite/b/GDoDljDl/ATTI9c775ce6d029b5d19287d3cd6724e64081543659/provap2
-Henrique Lenis 802.254
+https://trello.com/b/GDoDljDl/provap2
+Henrique Lenis 802.254 e Pedro Henrique Ceolin 802.605
 Sistema de Gestão para uma Clínica Odontológica
